@@ -1,0 +1,14 @@
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.AssemblyInfoInputs.cache
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.AssemblyInfo.cs
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.csproj.CoreCompileInputs.cache
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\bin\Debug\net10.0\Symbol Finder.exe
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\bin\Debug\net10.0\Symbol Finder.deps.json
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\bin\Debug\net10.0\Symbol Finder.runtimeconfig.json
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\bin\Debug\net10.0\Symbol Finder.dll
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\bin\Debug\net10.0\Symbol Finder.pdb
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.dll
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\refint\Symbol Finder.dll
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.pdb
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\Symbol Finder.genruntimeconfig.cache
+C:\Users\Inyosi Empowermen SD\source\repos\Symbol Finder\obj\Debug\net10.0\ref\Symbol Finder.dll
